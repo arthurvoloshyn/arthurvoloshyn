@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Teacher and Mentor!
 
-- 📍 I’m From Belarus (Ivano-Frankivsk)
+- 📍 I’m From Ukraine (Ivano-Frankivsk)
 - 💻 5+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 📚 Mentor
