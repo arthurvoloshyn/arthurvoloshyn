@@ -1,16 +1,26 @@
-### Hi there 👋
+<img src="./assets/preview.png" alt="Preview"/>
 
-<!--
-**ArturW1998/ArturW1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center">
+  <tr>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/html.png" alt="" title="HTML"/>
+    </td>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/css.png" alt="CSS" alt="CSS"/>
+    </td>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/js.png" alt="JavaScript" title="JavaScript"/>
+    </td>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/ts.png" alt="TypeScript" title="TypeScript"/>
+    </td>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/redux.png"
+           alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+    </td>
+    <td align="center" width="15%">
+      <img src="./assets/skills/frontend/mobx.png" alt="MobX" title="MobX"/>
+    </td>
+  </tr>
+</table>
