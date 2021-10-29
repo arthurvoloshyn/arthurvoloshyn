@@ -152,26 +152,16 @@
 
 ### 🛠 Tools:
 
-<img alt="jira" src="https://img.shields.io/badge/jira-056386.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-056386.svg?&style=for-the-badge&logo=confluence&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="redmine" src="https://img.shields.io/badge/redmine-056386.svg?&style=for-the-badge&logo=redmine&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="trello" src="https://img.shields.io/badge/trello-056386.svg?&style=for-the-badge&logo=trello&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-056386.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-056386.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-056386.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
-<img alt="webstorm" src="https://img.shields.io/badge/webstorm-056386.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />
-&nbsp;
+<img alt="jira" src="https://img.shields.io/badge/jira-056386.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="confluence" src="https://img.shields.io/badge/confluence-056386.svg?&style=for-the-badge&logo=confluence&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="redmine" src="https://img.shields.io/badge/redmine-056386.svg?&style=for-the-badge&logo=redmine&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="trello" src="https://img.shields.io/badge/trello-056386.svg?&style=for-the-badge&logo=trello&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="heroku" src="https://img.shields.io/badge/heroku-056386.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="photoshop" src="https://img.shields.io/badge/photoshop-056386.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="figma" src="https://img.shields.io/badge/figma-056386.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
+<img alt="webstorm" src="https://img.shields.io/badge/webstorm-056386.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=2eb8eb" />&nbsp;
 
 [linkedin]: https://www.linkedin.com/in/artur-voloshyn-4439b61a4/
 
