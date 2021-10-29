@@ -146,6 +146,72 @@
   </tr>
 </table>
 
+<table align= "center">
+  <tr>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React.js" />
+      </a>
+      <br>React.js
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech" >
+        <img src="./react-original.svg" width="48" height="48" alt="React Native" />
+      </a>
+      <br>React Native
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br>JavaScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./typescript-original.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./sass-original.svg" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Sass
+    </td>
+     <td align="center" width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./git.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./nextjs.svg" width="48" height="48" alt="Next.js" />
+      </a>
+      <br>Next.js
+    </td>
+    </br>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./Firebase_Logo_Standard_Lockup.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./styled-components.svg" width="48" height="48" alt="FStyled-components" />
+      </a>
+      <br>Styled-components
+    </td>
+    <td align="center"  width="140" height="112.43">
+      <a href="#macropower-tech">
+        <img src="./nodejs-ar21.svg" width="65" height="50" alt="Node.js" />
+      </a>
+      <br>Node.js
+    </td>
+   </tr>
+</table>
+
 ### 🛠 Tools:
 
 <img alt="jira" src="https://img.shields.io/badge/jira-056386.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
