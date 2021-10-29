@@ -20,32 +20,25 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/html.png" alt="HTML" title="HTML"/>
     </td>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/css.png" alt="CSS" title="CSS"/>
     </td>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/js.png" alt="JavaScript" title="JavaScript"/>
     </td>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/ts.png" alt="TypeScript" title="TypeScript"/>
     </td>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/redux.png"
            alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
            title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
     </td>
-    <td align="center" width="12.5%">
+    <td align="center" width="16.67%">
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" title="MobX"/>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL and Apollo"
-           title="GraphQL and Apollo"/>
-    </td>
-    <td align="center" width="12.5%">
-      <img src="./assets/skills/frontend/next.png" alt="Next.js" title="Next.js"/>
     </td>
   </tr>
 </table>
