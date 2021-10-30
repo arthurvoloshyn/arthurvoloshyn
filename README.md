@@ -154,6 +154,33 @@
   </tr>
 </table>
 
+### 💻 Tech Stack:
+
+<img alt="html5" src="https://img.shields.io/badge/html-056386.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="css3" src="https://img.shields.io/badge/css-056386.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="javascript" src="https://img.shields.io/badge/javascript-056386.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="typescript" src="https://img.shields.io/badge/typescript-056386.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="react" src="https://img.shields.io/badge/react-056386.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="redux" src="https://img.shields.io/badge/redux-056386.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="redux-thunk" src="https://img.shields.io/badge/redux thunk-056386.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-056386.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="mobx" src="https://img.shields.io/badge/mobx-056386.svg?&style=for-the-badge&logo=mobx&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="graphql" src="https://img.shields.io/badge/graphql-056386.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="next.js" src="https://img.shields.io/badge/next.js-056386.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="react-native" src="https://img.shields.io/badge/react native-056386.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="vue.js" src="https://img.shields.io/badge/vue.js-056386.svg?&style=for-the-badge&logo=vue.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
+<img alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-056386.svg?&style=for-the-badge&logo=nuxt.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
+<img alt="vuex.js" src="https://img.shields.io/badge/vuex.js-056386.svg?&style=for-the-badge&logo=vue.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
+<img alt="rx.js" src="https://img.shields.io/badge/rx.js-056386.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="jest" src="https://img.shields.io/badge/jest-056386.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
+<img alt="testing-library" src="https://img.shields.io/badge/rtl-056386.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="node.js" src="https://img.shields.io/badge/node.js-056386.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="mongodb" src="https://img.shields.io/badge/mongodb-056386.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="sass" src="https://img.shields.io/badge/sass-056386.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-056386.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="markdown" src="https://img.shields.io/badge/markdown-056386.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+
+
 ### 🛠 Tools:
 
 <img alt="jira" src="https://img.shields.io/badge/jira-056386.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
