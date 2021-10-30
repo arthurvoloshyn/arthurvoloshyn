@@ -2,7 +2,7 @@
 
 ### Hi all, I'm Artur 👋
 
-## I'm a Developer, Teacher, and Mentor!
+## I'm a Developer and Mentor!
 
 - 📍 I’m From Ukraine (Ivano-Frankivsk);
 - 💻 5+ Years Experience in Front-end Development;
