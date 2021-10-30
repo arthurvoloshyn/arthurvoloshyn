@@ -21,31 +21,21 @@
 <table>
   <tr>
     <td>
-      <a>
-        <img src="./assets/skills/frontend/html.png" alt="HTML" width="75" title="HTML"/>
-      </a>
+      <img src="./assets/skills/frontend/html.png" alt="HTML" width="75" title="HTML"/>
     </td>
     <td>
-      <a>
-        <img src="./assets/skills/frontend/css.png" alt="CSS" width="75" title="CSS"/>
-      </a>
+      <img src="./assets/skills/frontend/css.png" alt="CSS" width="75" title="CSS"/>
     </td>
     <td>
-      <a>
-        <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
-      </a>
+      <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
     </td>
     <td>
-      <a>
-        <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
-      </a>
+      <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
     </td>
     <td>
-      <a>
-        <img src="./assets/skills/frontend/redux.png" width="75"
+      <img src="./assets/skills/frontend/redux.png" width="75"
            alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
            title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
-      </a>
     </td>
   </tr>
   <tr>
