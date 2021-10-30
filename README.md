@@ -18,7 +18,7 @@
 
 ### 💻 Tech Stack:
 
-<table align="center">
+<table align="center" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center" width="10%">
       <img src="./assets/skills/frontend/html.png" alt="HTML" title="HTML"/>
