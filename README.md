@@ -20,8 +20,10 @@
 
 <table>
   <tr>
-    <td>
-      <img src="./assets/skills/frontend/html.png" alt="HTML" width="75" title="HTML"/>
+    <td width="100" height="100">
+<div width="100" height="100">
+<img src="./assets/skills/frontend/html.png" alt="HTML" width="75" height="100" title="HTML"/>
+</div>
     </td>
     <td>
       <img src="./assets/skills/frontend/css.png" alt="CSS" width="75" title="CSS"/>
