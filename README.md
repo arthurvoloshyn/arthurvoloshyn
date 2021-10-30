@@ -154,6 +154,8 @@
   </tr>
 </table>
 
+_**Note:** Hover over a skill to get detailed information about it. The information will be displayed as a tooltip._
+
 <!--
 ### 💻 Tech Stack:
 
