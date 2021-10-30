@@ -154,6 +154,7 @@
   </tr>
 </table>
 
+<!--
 ### 💻 Tech Stack:
 
 <img alt="html5" src="https://img.shields.io/badge/html-056386.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
@@ -179,7 +180,7 @@
 <img alt="sass" src="https://img.shields.io/badge/sass-056386.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-056386.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-056386.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-
+ -->
 
 ### 🛠 Tools:
 
