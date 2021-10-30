@@ -37,9 +37,6 @@
            alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
            title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
     </td>
-    <td align="center" width="10%">
-      <img src="./assets/skills/frontend/mobx.png" alt="MobX" title="MobX"/>
-    </td>
   </tr>
 </table>
 
