@@ -22,146 +22,146 @@
   <tr>
     <td align="center" width="140" height="112.43">
       <a href="#">
-        <img src="./assets/skills/frontend/html.png" alt="HTML" title="HTML"/>
+        <img src="./assets/skills/frontend/html.png" alt="HTML"  width="48" height="48" title="HTML"/>
       </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/css.png" alt="CSS" title="CSS"/>
+      <img src="./assets/skills/frontend/css.png" alt="CSS"  width="48" height="48" title="CSS"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/js.png" alt="JavaScript" title="JavaScript"/>
+      <img src="./assets/skills/frontend/js.png" alt="JavaScript"  width="48" height="48" title="JavaScript"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/ts.png" alt="TypeScript" title="TypeScript"/>
+      <img src="./assets/skills/frontend/ts.png" alt="TypeScript"  width="48" height="48" title="TypeScript"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
       <img src="./assets/skills/frontend/redux.png"
            alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+            width="48" height="48" title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/mobx.png" alt="MobX" title="MobX"/>
+      <img src="./assets/skills/frontend/mobx.png" alt="MobX"  width="48" height="48" title="MobX"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
       <img src="./assets/skills/frontend/graphql.png" alt="GraphQL and Apollo"
-           title="GraphQL and Apollo"/>
+            width="48" height="48" title="GraphQL and Apollo"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/next.png" alt="Next.js" title="Next.js"/>
+      <img src="./assets/skills/frontend/next.png" alt="Next.js"  width="48" height="48" title="Next.js"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
-      <img src="./assets/skills/frontend/react_native.png" alt="React Native" title="React Native"/>
+      <img src="./assets/skills/frontend/react_native.png" alt="React Native"  width="48" height="48" title="React Native"/>
 </a>
     </td>
     <td align="center" width="140" height="112.43">
 <a href="#">
       <img src="./assets/skills/frontend/vue.png"
            alt="Vue, as well as technologies such as Nuxt.js and Vuex"
-           title="Vue, as well as technologies such as Nuxt.js and Vuex"
+            width="48" height="48" title="Vue, as well as technologies such as Nuxt.js and Vuex"
       />
 </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/frontend/rxjs.png" alt="RxJS" title="RxJS"/>
+      <img src="./assets/skills/frontend/rxjs.png" alt="RxJS"  width="48" height="48" title="RxJS"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/frontend/web_components.png"
            alt="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html and Clarity Core"
-           title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html and Clarity Core"
+            width="48" height="48" title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html and Clarity Core"
       />
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/frontend/jquery.png" alt="jQuery" title="jQuery"/>
+      <img src="./assets/skills/frontend/jquery.png" alt="jQuery"  width="48" height="48" title="jQuery"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/frontend/flow.png" alt="Flow" title="Flow"/>
+      <img src="./assets/skills/frontend/flow.png" alt="Flow"  width="48" height="48" title="Flow"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/frontend/pug.png" alt="Pug" title="Pug"/>
+      <img src="./assets/skills/frontend/pug.png" alt="Pug"  width="48" height="48" title="Pug"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/frontend/css_preprocessors.png"
            alt="CSS preprocessors such as SASS, LESS, Stylus and PostCSS"
-           title="CSS preprocessors such as SASS, LESS, Stylus and PostCSS"
+            width="48" height="48" title="CSS preprocessors such as SASS, LESS, Stylus and PostCSS"
       />
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/frontend/css_frameworks.png"
            alt="CSS frameworks such as Bootstrap, Materialize, Foundation, Skeleton and Tailwind CSS"
-           title="CSS frameworks such as Bootstrap, Materialize, Foundation, Skeleton and Tailwind CSS"
+            width="48" height="48" title="CSS frameworks such as Bootstrap, Materialize, Foundation, Skeleton and Tailwind CSS"
       />
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/frontend/bundlers.png"
            alt="Bundlers and task managers such as Webpack, Gulp, Rollup.js, Parcel Snowpack and Bower"
-           title="Bundlers and task managers such as Webpack, Gulp, Rollup.js, Parcel Snowpack and Bower"
+            width="48" height="48" title="Bundlers and task managers such as Webpack, Gulp, Rollup.js, Parcel Snowpack and Bower"
       />
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/frontend/js_testing_frameworks.png"
            alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"
-           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"/>
+            width="48" height="48" title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" title="PWA and AMP"/>
+      <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP"  width="48" height="48" title="PWA and AMP"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/other/git.png"
            alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
-           title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
+            width="48" height="48" title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/other/docker.svg" alt="Docker" title="Docker"/>
+      <img src="./assets/skills/other/docker.svg" alt="Docker"  width="48" height="48" title="Docker"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/other/linters.png"
            alt="Linters and code formatters such as ESLint, Stylelint and Prettier"
-           title="Linters and code formatters such as ESLint, Stylelint and Prettier"/>
+            width="48" height="48" title="Linters and code formatters such as ESLint, Stylelint and Prettier"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/other/serverless_&_servers.png"
            alt="Serverless and servers such as AWS, Azure, GCP, Firebase, Nginx and Apache"
-           title="Serverless and servers such as AWS, Azure, GCP, Firebase, Nginx and Apache"/>
+            width="48" height="48" title="Serverless and servers such as AWS, Azure, GCP, Firebase, Nginx and Apache"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/other/cms.png" alt="CMS's such as Expression.Cloud and WordPress"
-           title="CMS's such as Expression.Cloud and WordPress"/>
+            width="48" height="48" title="CMS's such as Expression.Cloud and WordPress"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/other/markdown.png" alt="Markdown" title="Markdown"/>
+      <img src="./assets/skills/other/markdown.png" alt="Markdown"  width="48" height="48" title="Markdown"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/backand/nodejs.png" alt="Node.js" title="Node.js"/>
+      <img src="./assets/skills/backand/nodejs.png" alt="Node.js"  width="48" height="48" title="Node.js"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/backand/php.png" alt="PHP" title="PHP"/>
+      <img src="./assets/skills/backand/php.png" alt="PHP"  width="48" height="48" title="PHP"/>
     </td>
     <td align="center" width="140" height="112.43">
-      <img src="./assets/skills/backand/laravel.png" alt="Laravel" title="Laravel"/>
+      <img src="./assets/skills/backand/laravel.png" alt="Laravel"  width="48" height="48" title="Laravel"/>
     </td>
     <td align="center" width="140" height="112.43">
       <img src="./assets/skills/backand/databases.png"
            alt="Databases such as MySQL, PostgreSQL, MongoDB and Firebase"
-           title="Databases such as MySQL, PostgreSQL, MongoDB and Firebase"/>
+            width="48" height="48" title="Databases such as MySQL, PostgreSQL, MongoDB and Firebase"/>
     </td>
   </tr>
 </table>
