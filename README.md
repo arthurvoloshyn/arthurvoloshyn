@@ -40,13 +40,6 @@
     <td align="center" width="10%">
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" title="MobX"/>
     </td>
-    <td align="center" width="10%">
-      <img src="./assets/skills/frontend/graphql.png" alt="GraphQL and Apollo"
-           title="GraphQL and Apollo"/>
-    </td>
-    <td align="center" width="10%">
-      <img src="./assets/skills/frontend/next.png" alt="Next.js" title="Next.js"/>
-    </td>
   </tr>
 </table>
 
