@@ -20,29 +20,29 @@
 
 <table>
   <tr>
-    <td>
+    <td width="75">
       <div>
-        <img src="./assets/skills/frontend/html.png" alt="HTML" width="75" title="HTML"/>
+        <img src="./assets/skills/frontend/html.png" alt="HTML" title="HTML"/>
       </div>
     </td>
-    <td>
+    <td width="75">
       <div>
-        <img src="./assets/skills/frontend/css.png" alt="CSS" width="75" title="CSS"/>
+        <img src="./assets/skills/frontend/css.png" alt="CSS" title="CSS"/>
       </div>
     </td>
-    <td>
+    <td width="75">
       <div>
-        <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
+        <img src="./assets/skills/frontend/js.png" alt="JavaScript" title="JavaScript"/>
       </div>
     </td>
-    <td>
+    <td width="75">
       <div>
-        <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
+        <img src="./assets/skills/frontend/ts.png" alt="TypeScript" title="TypeScript"/>
       </div>
     </td>
-    <td>
+    <td width="75">
       <div>
-        <img src="./assets/skills/frontend/redux.png" width="75"
+        <img src="./assets/skills/frontend/redux.png"
            alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
            title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
       </div>
