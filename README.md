@@ -40,6 +40,9 @@
   </tr>
   <tr>
     <td>
+      <img src="./assets/skills/frontend/react.png" alt="React" width="75" title="React"/>
+    </td>
+    <td>
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
     </td>
     <td>
@@ -53,14 +56,14 @@
       <img src="./assets/skills/frontend/react_native.png" alt="React Native" width="75"
            title="React Native"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/vue.png" width="75"
            alt="Vue, as well as technologies such as Nuxt.js and Vuex"
            title="Vue, as well as technologies such as Nuxt.js and Vuex"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/rxjs.png" alt="RxJS" width="75" title="RxJS"/>
     </td>
@@ -76,11 +79,11 @@
     <td>
       <img src="./assets/skills/frontend/flow.png" alt="Flow" width="75" title="Flow"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/pug.png" alt="Pug" width="75" title="Pug"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/css_preprocessors.png" width="75"
            alt="CSS preprocessors such as SASS, LESS, Stylus and PostCSS"
@@ -104,11 +107,11 @@
            alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"
            title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" width="75" title="PWA and AMP"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/other/git.png" width="75"
            alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
@@ -127,15 +130,12 @@
            alt="Serverless and servers such as AWS, Azure, GCP, Firebase, Nginx and Apache"
            title="Serverless and servers such as AWS, Azure, GCP, Firebase, Nginx and Apache"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/other/cms.png" width="75"
            alt="CMS's such as Expression.Cloud and WordPress"
            title="CMS's such as Expression.Cloud and WordPress"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="./assets/skills/other/markdown.png" alt="Markdown" width="75" title="Markdown"/>
     </td>
     <td>
       <img src="./assets/skills/backand/nodejs.png" alt="Node.js" width="75" title="Node.js"/>
