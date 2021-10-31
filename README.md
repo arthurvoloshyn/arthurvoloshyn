@@ -195,7 +195,7 @@ _**Note:** Hover over a skill to get detailed information about it. The informat
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-056386.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-056386.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+<img alt="sketch" src="https://img.shields.io/badge/sketch-056386.svg?&style=for-the-badge&logo=sketch&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-056386.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 
 [linkedin]: https://www.linkedin.com/in/artur-voloshyn-4439b61a4/
