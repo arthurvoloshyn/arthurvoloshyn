@@ -174,19 +174,19 @@
   </tr>
   <tr>
     <td>
-      <img src="./assets/skills/tools/photoshop.png" alt="Photoshop" width="75" title="Adobe Photoshop"/>
+      <img src="./assets/skills/tools/photoshop.png" alt="Adobe Photoshop" width="75" title="Adobe Photoshop"/>
     </td>
     <td>
       <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/invision.png" alt="Invision" width="75" title="InVision"/>
+      <img src="./assets/skills/tools/invision.png" alt="InVision" width="75" title="InVision"/>
     </td>
     <td>
       <img src="./assets/skills/tools/sketch.png" alt="Sketch" width="75" title="Sketch"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/webstorm.png" alt="Webstorm Native" width="75" title="WebStorm"/>
+      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
     </td>
   </tr>
 </table>
