@@ -1,22 +1,20 @@
 <img src="./assets/preview.png" alt="Preview"/>
 
-### Hi all, I'm Artur 👋
-
 ## I'm a Developer and Mentor!
 
-- 📍 I’m From Ukraine (Ivano-Frankivsk);
-- 💻 5+ Years Experience in Front-end Development;
-- 👨‍💻 Front-end Enthusiast & Volunteer;
-- 📚 Mentor.
+- I’m From Ukraine (Ivano-Frankivsk);
+- 5+ Years Experience in Front-end Development;
+- Front-end Enthusiast & Volunteer;
+- Mentor.
 
-### 🤝 Connect with me:
+### Connect with me:
 
-[<img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=fff"/>][email]
-[<img alt="Website" src="https://img.shields.io/badge/website-3423A6.svg?&style=for-the-badge&logo=google-chrome&logoColor=fff"/>][website]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"/>][linkedin]
+[<img alt="Website" src="https://img.shields.io/badge/website-3423A6.svg?&style=for-the-badge&logo=google-chrome&logoColor=fff"/>][website]&nbsp;
+[<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"/>][linkedin]&nbsp;
+[<img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=fff"/>][email]&nbsp;
 [<img alt="Skype" src="https://img.shields.io/badge/skype-1eaff1.svg?&style=for-the-badge&logo=skype&logoColor=fff"/>][skype]
 
-### 💻 Tech Stack:
+### Tech Stack:
 
 <table>
   <tr>
@@ -118,7 +116,7 @@
            title="Git, as well as technologies such as GitHub, GitLab and Bitbucket"/>
     </td>
     <td>
-      <img src="./assets/skills/other/docker.svg" alt="Docker" width="75" title="Docker"/>
+      <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
     </td>
     <td>
       <img src="./assets/skills/other/linters.png" width="75"
@@ -138,23 +136,62 @@
            title="CMS's such as Expression.Cloud and WordPress"/>
     </td>
     <td>
-      <img src="./assets/skills/backand/nodejs.png" alt="Node.js" width="75" title="Node.js"/>
+      <img src="./assets/skills/backend/nodejs.png" alt="Node.js" width="75" title="Node.js"/>
     </td>
     <td>
-      <img src="./assets/skills/backand/php.png" alt="PHP" width="75" title="PHP"/>
+      <img src="./assets/skills/backend/php.png" alt="PHP" width="75" title="PHP"/>
     </td>
     <td>
-      <img src="./assets/skills/backand/laravel.png" alt="Laravel" width="75" title="Laravel"/>
+      <img src="./assets/skills/backend/laravel.png" alt="Laravel" width="75" title="Laravel"/>
     </td>
     <td>
-      <img src="./assets/skills/backand/databases.png" width="75"
+      <img src="./assets/skills/backend/databases.png" width="75"
            alt="Databases such as MySQL, PostgreSQL, MongoDB and Firebase"
            title="Databases such as MySQL, PostgreSQL, MongoDB and Firebase"/>
     </td>
   </tr>
 </table>
 
-_**Note:** Hover over a skill to get detailed information about it. The information will be displayed as a tooltip._
+### Tools:
+
+<table>
+  <tr>
+    <td>
+      <img src="./assets/skills/tools/jira.png" alt="Jira" width="75" title="Jira"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/trello.png" alt="Trello" width="75" title="Trello"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/confluence.png" alt="Confluence" width="75" title="Confluence"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/heroku.png" width="75" alt="Heroku" title="Heroku"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/redmine.png" alt="Redmine" width="75" title="Redmine"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./assets/skills/tools/photoshop.png" alt="Photoshop" width="75" title="Photoshop"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/invision.png" alt="Invision" width="75" title="Invision"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/sketch.png" alt="Sketch" width="75" title="Sketch"/>
+    </td>
+    <td>
+      <img src="./assets/skills/tools/webstorm.png" alt="Webstorm Native" width="75" title="Webstorm"/>
+    </td>
+  </tr>
+</table>
+
+_**Note:** hover over a skill to get detailed information about it. </br> The information will be displayed as a tooltip._
 
 <!--
 ### 💻 Tech Stack:
@@ -183,7 +220,6 @@ _**Note:** Hover over a skill to get detailed information about it. The informat
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-056386.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-056386.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 ...
- -->
 
 ### 🛠 Tools:
 
@@ -197,6 +233,7 @@ _**Note:** Hover over a skill to get detailed information about it. The informat
 <img alt="figma" src="https://img.shields.io/badge/figma-056386.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="sketch" src="https://img.shields.io/badge/sketch-056386.svg?&style=for-the-badge&logo=sketch&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
 <img alt="webstorm" src="https://img.shields.io/badge/webstorm-056386.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
+-->
 
 [linkedin]: https://www.linkedin.com/in/artur-voloshyn-4439b61a4/
 [email]: mailto:arthurvoloshyn@gmail.com
