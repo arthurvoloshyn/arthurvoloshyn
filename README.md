@@ -31,14 +31,14 @@
       <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/redux.png" width="75"
-           alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+      <img src="./assets/skills/frontend/react.png" alt="React and Preact" width="75" title="React and Preact"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/skills/frontend/react.png" alt="React" width="75" title="React"/>
+      <img src="./assets/skills/frontend/redux.png" width="75"
+           alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
@@ -67,8 +67,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
-           alt="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html and Clarity Core"
-           title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html and Clarity Core"
+           alt="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, Skate.js, Slim.js and Clarity Core"
+           title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, Skate.js, Slim.js and Clarity Core"
       />
     </td>
     <td>
@@ -102,8 +102,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_frameworks.png" width="75"
-           alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"
-           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Mocha, Karma, Jasmine and Chai"/>
+           alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Puppeteer, Mocha, Karma, Jasmine and Chai"
+           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
     </td>
   </tr>
   <tr>
