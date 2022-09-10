@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Mentor!
 
-- I’m From Ukraine (Ivano-Frankivsk);
+- I'm From Ukraine (Ivano-Frankivsk);
 - 5+ Years Experience in Front-end Development;
 - Front-end Enthusiast & Volunteer;
 - Mentor.
@@ -11,8 +11,7 @@
 
 [<img alt="Website" src="https://img.shields.io/badge/website-3423A6.svg?&style=for-the-badge&logo=google-chrome&logoColor=fff"/>][website]&nbsp;
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=fff"/>][linkedin]&nbsp;
-[<img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=fff"/>][email]&nbsp;
-[<img alt="Skype" src="https://img.shields.io/badge/skype-1eaff1.svg?&style=for-the-badge&logo=skype&logoColor=fff"/>][skype]
+[<img alt="Email" src="https://img.shields.io/badge/email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=fff"/>][email]
 
 ### Tech Stack:
 
@@ -28,7 +27,7 @@
       <img src="./assets/skills/frontend/js.png" alt="JavaScript" width="75" title="JavaScript"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/ts.png" alt="TypeScript" width="75" title="TypeScript"/>
+      <img src="./assets/skills/frontend/ts.png" alt="TypeScript and Flow" width="75" title="TypeScript and Flow"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/react.png" alt="React and Preact" width="75" title="React and Preact"/>
@@ -37,8 +36,8 @@
   <tr>
     <td>
       <img src="./assets/skills/frontend/redux.png" width="75"
-           alt="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+           alt="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
@@ -75,12 +74,15 @@
       <img src="./assets/skills/frontend/jquery.png" alt="jQuery" width="75" title="jQuery"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/flow.png" alt="Flow" width="75" title="Flow"/>
+      <img src="./assets/skills/frontend/storybook.png" alt="Storybook and JSDoc" width="75" title="Storybook and JSDoc"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/skills/frontend/pug.png" alt="Pug" width="75" title="Pug"/>
+      <img src="./assets/skills/frontend/html_template_engines.png"
+           alt="HTML template engines such as Pug, EJS and Blade" width="75"
+           title="HTML template engines such as Pug, EJS and Blade"
+      />
     </td>
     <td>
       <img src="./assets/skills/frontend/css_preprocessors.png" width="75"
@@ -90,8 +92,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/css_frameworks.png" width="75"
-           alt="CSS frameworks such as Bootstrap, Materialize, Foundation, Skeleton and Tailwind CSS"
-           title="CSS frameworks such as Bootstrap, Materialize, Foundation, Skeleton and Tailwind CSS"
+           alt="CSS utilities such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation and Skeleton"
+           title="CSS utilities such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation and Skeleton"
       />
     </td>
     <td>
@@ -193,49 +195,6 @@
 
 _**Note:** hover over a skill to get detailed information about it. </br> The information will be displayed as a tooltip._
 
-<!--
-### 💻 Tech Stack:
-
-<img alt="html5" src="https://img.shields.io/badge/html-056386.svg?&style=for-the-badge&logo=html5&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="css3" src="https://img.shields.io/badge/css-056386.svg?&style=for-the-badge&logo=css3&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="javascript" src="https://img.shields.io/badge/javascript-056386.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="typescript" src="https://img.shields.io/badge/typescript-056386.svg?&style=for-the-badge&logo=typescript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="react" src="https://img.shields.io/badge/react-056386.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="redux" src="https://img.shields.io/badge/redux-056386.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="redux-thunk" src="https://img.shields.io/badge/redux thunk-056386.svg?&style=for-the-badge&logo=redux&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="redux-saga" src="https://img.shields.io/badge/redux saga-056386.svg?&style=for-the-badge&logo=redux-saga&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="mobx" src="https://img.shields.io/badge/mobx-056386.svg?&style=for-the-badge&logo=mobx&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="graphql" src="https://img.shields.io/badge/graphql-056386.svg?&style=for-the-badge&logo=graphql&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="next.js" src="https://img.shields.io/badge/next.js-056386.svg?&style=for-the-badge&logo=next.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="react-native" src="https://img.shields.io/badge/react native-056386.svg?&style=for-the-badge&logo=react&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="vue.js" src="https://img.shields.io/badge/vue.js-056386.svg?&style=for-the-badge&logo=vue.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
-<img alt="nuxt.js" src="https://img.shields.io/badge/nuxt.js-056386.svg?&style=for-the-badge&logo=nuxt.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
-<img alt="vuex.js" src="https://img.shields.io/badge/vuex.js-056386.svg?&style=for-the-badge&logo=vue.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
-<img alt="rx.js" src="https://img.shields.io/badge/rx.js-056386.svg?&style=for-the-badge&logo=javascript&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="jest" src="https://img.shields.io/badge/jest-056386.svg?&style=for-the-badge&logo=jest&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>
-<img alt="testing-library" src="https://img.shields.io/badge/rtl-056386.svg?&style=for-the-badge&logo=testing-library&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="node.js" src="https://img.shields.io/badge/node.js-056386.svg?&style=for-the-badge&logo=node.js&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="mongodb" src="https://img.shields.io/badge/mongodb-056386.svg?&style=for-the-badge&logo=mongodb&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="sass" src="https://img.shields.io/badge/sass-056386.svg?&style=for-the-badge&logo=sass&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-056386.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="markdown" src="https://img.shields.io/badge/markdown-056386.svg?&style=for-the-badge&logo=markdown&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-...
-
-### 🛠 Tools:
-
-<img alt="jira" src="https://img.shields.io/badge/jira-056386.svg?&style=for-the-badge&logo=jira&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="confluence" src="https://img.shields.io/badge/confluence-056386.svg?&style=for-the-badge&logo=confluence&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="redmine" src="https://img.shields.io/badge/redmine-056386.svg?&style=for-the-badge&logo=redmine&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="trello" src="https://img.shields.io/badge/trello-056386.svg?&style=for-the-badge&logo=trello&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="heroku" src="https://img.shields.io/badge/heroku-056386.svg?&style=for-the-badge&logo=heroku&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="photoshop" src="https://img.shields.io/badge/photoshop-056386.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="invision" src="https://img.shields.io/badge/invision-056386.svg?&style=for-the-badge&logo=invision&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="figma" src="https://img.shields.io/badge/figma-056386.svg?&style=for-the-badge&logo=figma&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="sketch" src="https://img.shields.io/badge/sketch-056386.svg?&style=for-the-badge&logo=sketch&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
-<img alt="webstorm" src="https://img.shields.io/badge/webstorm-056386.svg?&style=for-the-badge&logo=webstorm&logoColor=fff&logoWidth=20&labelColor=2eb8eb"/>&nbsp;
--->
-
 [linkedin]: https://www.linkedin.com/in/artur-voloshyn-4439b61a4/
 [email]: mailto:arthurvoloshyn@gmail.com
-[skype]: skype:live:32d04c9d781e2d24?chat
 [website]: https://arturvoloshyn.herokuapp.com/
