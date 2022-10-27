@@ -74,7 +74,10 @@
       <img src="./assets/skills/frontend/jquery.png" alt="jQuery" width="75" title="jQuery"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/storybook.png" alt="Storybook and JSDoc" width="75" title="Storybook and JSDoc"/>
+      <img src="./assets/skills/frontend/storybook.png" width="75"
+           alt="Storybook, as well as technologies such as Loki and JSDoc"
+           title="Storybook, as well as technologies such as Loki and JSDoc"
+      />
     </td>
   </tr>
   <tr>
@@ -98,14 +101,14 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/bundlers.png" width="75"
-           alt="Bundlers and task managers such as Webpack, Gulp, Rollup.js, Parcel Snowpack and Bower"
-           title="Bundlers and task managers such as Webpack, Gulp, Rollup.js, Parcel Snowpack and Bower"
+           alt="Bundlers and task managers such as Webpack, Gulp, ESBuild, Rollup.js, Parcel Snowpack and Bower"
+           title="Bundlers and task managers such as Webpack, Gulp, ESBuild, Rollup.js, Parcel Snowpack and Bower"
       />
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_frameworks.png" width="75"
-           alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Puppeteer, Mocha, Karma, Jasmine and Chai"
-           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
+           alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"
+           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
     </td>
   </tr>
   <tr>
