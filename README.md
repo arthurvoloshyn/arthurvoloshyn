@@ -36,8 +36,13 @@
   <tr>
     <td>
       <img src="./assets/skills/frontend/redux.png" width="75"
-           alt="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+           alt="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/state_management.png" width="75"
+           alt="State management libraries such as MobX, RxJS, Recoil, and Effector"
+           title="State management libraries such as MobX, RxJS, Recoil, and Effector"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
@@ -47,7 +52,10 @@
            title="GraphQL and Apollo"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/next.png" alt="Next.js" width="75" title="Next.js"/>
+      <img src="./assets/skills/frontend/next.png" width="75"
+           alt="Next.js, as well as SSR & SSG technologies such as Gatsby, HUGO, and Remix"
+           title="Next.js, as well as SSR & SSG technologies such as Gatsby, HUGO, and Remix"
+      />
     </td>
     <td>
       <img src="./assets/skills/frontend/react_native.png" alt="React Native" width="75"
@@ -62,12 +70,9 @@
       />
     </td>
     <td>
-      <img src="./assets/skills/frontend/rxjs.png" alt="RxJS" width="75" title="RxJS"/>
-    </td>
-    <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
-           alt="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, Skate.js, Slim.js and Clarity Core"
-           title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, Skate.js, Slim.js and Clarity Core"
+           alt="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, FAST, SolidJS, Skate.js, Slim.js and Clarity Core"
+           title="Web Components, as well as technologies such as Stencil.js, Polymer, Bit, Lit-html, LitElement, FAST, SolidJS, Skate.js, Slim.js and Clarity Core"
       />
     </td>
     <td>
@@ -95,8 +100,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/css_frameworks.png" width="75"
-           alt="CSS utilities such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation and Skeleton"
-           title="CSS utilities such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation and Skeleton"
+           alt="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation, Pure CSS and Skeleton"
+           title="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation, Pure CSS and Skeleton"
       />
     </td>
     <td>
@@ -107,8 +112,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_frameworks.png" width="75"
-           alt="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"
-           title="JS testing utilities such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
+           alt="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"
+           title="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
     </td>
   </tr>
   <tr>
@@ -122,6 +127,11 @@
     </td>
     <td>
       <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
+    </td>
+    <td>
+      <img src="./assets/skills/other/ci-cd.png" width="75"
+           alt="CI/CD tools such as Github Actions, GitLab CI/CD, Travis CI, Jenkins, App Center, and Fastlane"
+           title="CI/CD tools such as Github Actions, GitLab CI/CD, Travis CI, Jenkins, App Center, and Fastlane"/>
     </td>
     <td>
       <img src="./assets/skills/other/linters.png" width="75"
