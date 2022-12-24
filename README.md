@@ -45,9 +45,6 @@
            title="State management libraries such as MobX, RxJS, Recoil, and Effector"/>
     </td>
     <td>
-      <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
-    </td>
-    <td>
       <img src="./assets/skills/frontend/graphql.png" alt="GraphQL and Apollo" width="75"
            title="GraphQL and Apollo"/>
     </td>
