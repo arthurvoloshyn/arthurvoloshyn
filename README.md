@@ -81,14 +81,14 @@
            title="Storybook, as well as technologies such as Loki and JSDoc"
       />
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/html_template_engines.png"
            alt="HTML template engines such as Pug, EJS and Blade" width="75"
            title="HTML template engines such as Pug, EJS and Blade"
       />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/frontend/css_preprocessors.png" width="75"
            alt="CSS preprocessors such as SASS, LESS, Stylus and PostCSS"
@@ -112,11 +112,11 @@
            alt="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"
            title="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
     </td>
-  </tr>
-  <tr>
     <td>
       <img src="./assets/skills/frontend/pwa.png" alt="PWA and AMP" width="75" title="PWA and AMP"/>
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="./assets/skills/other/git.png" width="75"
            alt="Git, as well as technologies such as GitHub, GitLab and Bitbucket"
