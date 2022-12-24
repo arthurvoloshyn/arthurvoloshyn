@@ -36,8 +36,13 @@
   <tr>
     <td>
       <img src="./assets/skills/frontend/redux.png" width="75"
-           alt="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"
-           title="Recoil and Redux, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+           alt="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"
+           title="Redux and Redux Toolkit, as well as technologies such as Redux-Saga and Redux-Thunk"/>
+    </td>
+    <td>
+      <img src="./assets/skills/frontend/state_management.png" width="75"
+           alt="State management libraries such as MobX, RxJS, Recoil, and Effector"
+           title="State management libraries such as MobX, RxJS, Recoil, and Effector"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/mobx.png" alt="MobX" width="75" title="MobX"/>
@@ -63,9 +68,6 @@
            alt="Vue, as well as technologies such as Nuxt.js and Vuex"
            title="Vue, as well as technologies such as Nuxt.js and Vuex"
       />
-    </td>
-    <td>
-      <img src="./assets/skills/frontend/rxjs.png" alt="RxJS" width="75" title="RxJS"/>
     </td>
     <td>
       <img src="./assets/skills/frontend/web_components.png" width="75"
@@ -125,6 +127,11 @@
     </td>
     <td>
       <img src="./assets/skills/other/docker.png" alt="Docker" width="75" title="Docker"/>
+    </td>
+    <td>
+      <img src="./assets/skills/other/ci-cd.png" width="75"
+           alt="CI/CD tools such as Github Actions, GitLab CI/CD, Travis CI, Jenkins, App Center, and Fastlane"
+           title="CI/CD tools such as Github Actions, GitLab CI/CD, Travis CI, Jenkins, App Center, and Fastlane"/>
     </td>
     <td>
       <img src="./assets/skills/other/linters.png" width="75"
