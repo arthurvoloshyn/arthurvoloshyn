@@ -96,7 +96,7 @@
       />
     </td>
     <td>
-      <img src="./assets/skills/frontend/css_frameworks.png" width="75"
+      <img src="./assets/skills/frontend/css_tools.png" width="75"
            alt="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation, Pure CSS and Skeleton"
            title="CSS tools such as Styled Components, Emotion, Styled JSX, Material-UI, Ant Design, Tailwind CSS, Bootstrap, Materialize, Foundation, Pure CSS and Skeleton"
       />
@@ -108,7 +108,7 @@
       />
     </td>
     <td>
-      <img src="./assets/skills/frontend/js_testing_frameworks.png" width="75"
+      <img src="./assets/skills/frontend/js_testing_tools.png" width="75"
            alt="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"
            title="JS testing tools such as Jest, Enzyme, Testing Library (RTL), Cypress, WebdriverIO, Puppeteer, Mocha, Karma, Jasmine and Chai"/>
     </td>
