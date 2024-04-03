@@ -172,36 +172,54 @@
 <table>
   <tr>
     <td>
-      <img src="./assets/skills/tools/jira.png" alt="Jira" width="75" title="Jira"/>
+      <img src="./assets/skills/tools/atlassian_tools.png" width="75"
+           alt="Atlassian tools such as Jira, Confluence and Trello"
+           title="Atlassian tools such as Jira, Confluence and Trello"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/trello.png" alt="Trello" width="75" title="Trello"/>
+      <img src="./assets/skills/tools/design_tools.png" width="75"
+           alt="Design tools such as Figma, Sketch, Adobe Photoshop and Adobe InDesign"
+           title="Design tools such as Figma, Sketch, Adobe Photoshop and Adobe InDesign"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/confluence.png" alt="Confluence" width="75" title="Confluence"/>
+      <img src="./assets/skills/tools/sentry.png" alt="Sentry" width="75" title="Sentry"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/heroku.png" width="75" alt="Heroku" title="Heroku"/>
+      <img src="./assets/skills/tools/ides.png" width="75"
+           alt="IDEs tool such as WebStorm, Xcode and Android Studio"
+           title="IDEs tool such as WebStorm, Xcode and Android Studio"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/redmine.png" alt="Redmine" width="75" title="Redmine"/>
+      <img src="./assets/skills/tools/api_tools.png" width="75"
+           alt="API tool such as Postman and Swagger"
+           title="API tool such as Postman and Swagger"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="./assets/skills/tools/photoshop.png" alt="Adobe Photoshop" width="75" title="Adobe Photoshop"/>
+      <img src="./assets/skills/tools/ai_tools.png" width="75"
+           alt="AI tools such as GitHub Copilot, ChatGPT, Gemini and Perplexity AI"
+           title="AI tools such as GitHub Copilot, ChatGPT, Gemini and Perplexity AI"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/figma.png" alt="Figma" width="75" title="Figma"/>
+      <img src="./assets/skills/tools/note-taking_tools.png" width="75"
+           alt="Note-taking tools such as Notion and Obsidian"
+           title="Note-taking tools such as Notion and Obsidian"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/invision.png" alt="InVision" width="75" title="InVision"/>
+      <img src="./assets/skills/tools/diagram_tools.png" width="75"
+           alt="Diagram tools such as Miro, Lucidchart and draw.io"
+           title="Diagram tools such as Miro, Lucidchart and draw.io"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/sketch.png" alt="Sketch" width="75" title="Sketch"/>
+      <img src="./assets/skills/tools/animation_tools.png" width="75"
+           alt="Animation tools such as Adobe After Effects and Principle"
+           title="Animation tools such as Adobe After Effects and Principle"/>
     </td>
     <td>
-      <img src="./assets/skills/tools/webstorm.png" alt="WebStorm" width="75" title="WebStorm"/>
+      <img src="./assets/skills/tools/cloud_platforms.png" width="75"
+           alt="Cloud platforms such as Vercel, Netlify and Heroku"
+           title="Cloud platforms such as Vercel, Netlify and Heroku"/>
     </td>
   </tr>
 </table>
