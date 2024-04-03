@@ -1,6 +1,6 @@
 <img src="./assets/preview.png" alt="Preview"/>
 
-## Hi everyone, I'm Artur, a developer and mentor!
+## Hi everyone, I'm Artur, a Developer and Mentor!
 
 - I'm From Ukraine (Ivano-Frankivsk);
 - 8+ Years Experience in Front-end Development;
