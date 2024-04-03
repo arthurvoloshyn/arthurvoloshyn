@@ -5,3 +5,4 @@
 /.vscode
 /.vagrant
 /node_modules
+.DS_Store
