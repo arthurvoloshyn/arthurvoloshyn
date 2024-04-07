@@ -113,8 +113,8 @@
     </td>
     <td>
       <img src="./assets/skills/frontend/js_testing_tools.png" width="75"
-           alt="JS testing tools such as Jest, Mocha, Vitest, React Testing Library, Enzyme, Playwright, Cypress, Detox, Storybook and Loki"
-           title="JS testing tools such as Jest, Mocha, Vitest, React Testing Library, Enzyme, Playwright, Cypress, Detox, Storybook and Loki"/>
+           alt="JS testing tools such as Jest, Mocha, Vitest, Testing Library, Enzyme, Playwright, Cypress, Detox, Storybook and Loki"
+           title="JS testing tools such as Jest, Mocha, Vitest, Testing Library, Enzyme, Playwright, Cypress, Detox, Storybook and Loki"/>
     </td>
   </tr>
   <tr>
